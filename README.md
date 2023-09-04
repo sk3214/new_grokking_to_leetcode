@@ -52,15 +52,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [X] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) - Took a lot of time but good thinking!
 
-- [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+- [X] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [X] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## In-place Reversal of a Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
