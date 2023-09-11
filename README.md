@@ -62,7 +62,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) - couldn't solve it
 
 - [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
@@ -82,21 +82,21 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - Forgot logic now revised
 
-- [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/) - Couldn't solve it
+- [X] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/) - Couldn't solve it
 
 ## K-way merge
 
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
-- [ ] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
+- [X] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
-- [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- [X] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [X] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
-- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - couldn't solve it
 
 ## Top K Elements
 
