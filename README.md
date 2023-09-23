@@ -72,7 +72,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
 
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [X] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 ## Two Heaps
 
@@ -96,8 +96,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
-- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - couldn't solve it
-
+- [X] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - Revision Needed
 ## Top K Elements
 
 - [X] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
@@ -114,11 +113,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Modified Binary Search
 
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
-- [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+- [X] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) - Didn't Understand completely
 
 - [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
